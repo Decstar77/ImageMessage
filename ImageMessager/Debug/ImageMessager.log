@@ -1,0 +1,3 @@
+﻿  ImageMessager.cpp
+d:\code++\imagemessager\imagemessager\imagemessager.cpp(113): warning C4102: 'std': unreferenced label
+  ImageMessager.vcxproj -> D:\Code++\ImageMessager\Debug\ImageMessager.exe
